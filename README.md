@@ -2,6 +2,22 @@
 
 PhD mathematician building **TauLib**, a fully constructive formal system in **Lean 4**, and the wider **Panta Rhei Research Program**.
 
+## Swift-JSON 1.0.0
+
+I've released **Swift-JSON**, a Swift package for exact JSON values, offline
+Draft 2020-12 JSON Schema validation, JSON Patch and pull-driven streaming.
+It preserves decimal values and Unicode scalar identity, with explicit finite
+budgets for work owned by the library.
+
+**Swift 6.4+ · macOS 27+ · Apache-2.0 · No external package dependencies.**
+
+[Repository](https://github.com/ThorFuchs/Swift-JSON) ·
+[1.0.0 release](https://github.com/ThorFuchs/Swift-JSON/releases/tag/1.0.0) ·
+[Documentation](https://thorfuchs.github.io/Swift-JSON/)
+
+Feedback and real-world use cases are welcome. If you find it useful, a star
+helps other Swift developers discover it.
+
 ## Current focus
 - **TauLib** — Lean 4 formalization layer
 - **Panta Rhei Research Program** — mathematics → physics → life → metaphysics
